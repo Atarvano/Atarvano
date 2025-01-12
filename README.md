@@ -14,7 +14,7 @@
 
 ## Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31glkdzobptlrjh5nf54hyymzje4?si=343572e1360a4d20)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qsabc7x344fpiraqobzepaqbnm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 
 ###
