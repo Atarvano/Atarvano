@@ -19,8 +19,6 @@
 
 ###
 
-g
-
 ## Skill 👨‍💻
 
 <div align="left">
