@@ -9,7 +9,7 @@
 <img align="right" width="38%" src="https://i.imgur.com/bD9ROHO.png"/>
 
 <div align="left" width="40%">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Atarvano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atarvano&layout=compact&theme=radical)
 </div>
 
 ## Now Playing 🎧
