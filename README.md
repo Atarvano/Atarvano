@@ -8,8 +8,8 @@
 
 <img align="right" width="38%" src="https://i.imgur.com/bD9ROHO.png"/>
 
-<div align="left" width="40%">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atarvano&layout=compact&theme=radical)
+<div align="left" style="width: 40%;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atarvano&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </div>
 
 ## Now Playing 🎧
